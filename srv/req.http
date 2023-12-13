@@ -1,0 +1,6 @@
+PATCH http://localhost:4004/odata/v4/admin/Books/251
+Content-Type:application/json
+
+{
+    "description": "The Raven is a narrative poem by American writer Edgar Allan Poe. First published in January 1845, the poem is often noted for its musicality, stylized language, and supernatural atmosphere."
+}
